@@ -1,6 +1,6 @@
 # StructifyApp
 A focused tool to structure ideas, plan workflows, and build apps with clarity.
-# Structify
+# StructifyApp
 
 A simple and focused tool to structure your ideas, workflows, and app development process.
 
