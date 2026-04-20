@@ -5,7 +5,7 @@ A simple and focused tool to structure your ideas, workflows, and app developmen
 
 ## Download
 
-👉 [Download Structify](https://github.com/macdirtycow/StructifyApp/releases/latest)
+👉 [Download the Structify App](https://github.com/macdirtycow/StructifyApp/releases/latest)
 
 ## Installation
 
